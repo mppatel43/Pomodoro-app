@@ -16,7 +16,7 @@ The **Pomodoro Timer App** is a simple yet effective time management tool that h
 - **JavaScript**: Core functionality of the Pomodoro timer.
 
 
-##Acknowledgments
+## Acknowledgments
 - Thanks to CodeDex for providing guidance and resources to complete this project.
 
 
